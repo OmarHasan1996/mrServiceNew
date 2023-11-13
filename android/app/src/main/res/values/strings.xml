@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Closer</string>
+    <string name="facebook_app_id">307513638666764</string>
+    <string name="fb_login_protocol_scheme">fb307513638666764</string>
+    <string name="facebook_client_token">47af5ff159aa2be68b8694f85335d8d2</string>
+</resources>

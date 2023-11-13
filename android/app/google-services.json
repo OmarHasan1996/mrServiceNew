@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1035515167907",
+    "project_id": "closer-685f2",
+    "storage_bucket": "closer-685f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035515167907:android:ce254a11ffc2cea01cab16",
+        "android_client_info": {
+          "package_name": "com.godigi.closer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035515167907-96o0gmvmodjm0229dnn2kfc2f87r2g4u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.godigi.closer",
+            "certificate_hash": "c0aeafd86fe9ba1e4036823e83f078d870df2309"
+          }
+        },
+        {
+          "client_id": "1035515167907-g8ga6crhnqltvnsb52agevb066q2ekc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAZMYLq8m-xOUyAs_lBLP2H6HU1cpk14I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035515167907-g8ga6crhnqltvnsb52agevb066q2ekc1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1035515167907-g236vqb7nlaf2o4muvr97l59si5qrnq9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.godigi.closer"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-5051441163313137~5983185966"
+    }
+  ],
+  "configuration_version": "1"
+}

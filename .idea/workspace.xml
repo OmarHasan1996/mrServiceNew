@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="78cba030-1105-42a6-b96d-9c98cc4187d6" name="Changes" comment="push" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2TzP6jf4cqPRL3WuuprJAdFYqH8" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="I:\New Fluttre Project\closer\closer\lang" />
+      <recent name="I:\New Fluttre Project\closer\closer\ios\Runner" />
+      <recent name="I:\New Fluttre Project\closer\closer\android\app" />
+      <recent name="I:\New Fluttre Project\closer\closer\assets\images" />
+      <recent name="I:\New Fluttre Project\closer\closer\android" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="I:\New Fluttre Project\closer\closer\lib\screens\language" />
+      <recent name="I:\New Fluttre Project\closer\closer\lib\screens\order" />
+      <recent name="I:\New Fluttre Project\closer\closer\lib\screens\worker" />
+      <recent name="I:\New Fluttre Project\closer\closer\lib\screens\superVisior" />
+      <recent name="I:\New Fluttre Project\closer\closer\lib\screens\service" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78cba030-1105-42a6-b96d-9c98cc4187d6" name="Changes" comment="" />
+      <created>1692042763319</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692042763319</updated>
+    </task>
+    <task id="LOCAL؜٠٠٠٠١" summary="file from mr service">
+      <created>1692044353496</created>
+      <option name="number" value="LOCAL؜٠٠٠٠١" />
+      <option name="presentableId" value="LOCAL؜٠٠٠٠١" />
+      <updated>1692044353497</updated>
+    </task>
+    <task id="LOCAL؜٠٠٠٠٢" summary="build">
+      <created>1692136458056</created>
+      <option name="number" value="LOCAL؜٠٠٠٠٢" />
+      <option name="presentableId" value="LOCAL؜٠٠٠٠٢" />
+      <updated>1692136458056</updated>
+    </task>
+    <task id="LOCAL؜٠٠٠٠٣" summary="key map">
+      <created>1692668995814</created>
+      <option name="number" value="LOCAL؜٠٠٠٠٣" />
+      <option name="presentableId" value="LOCAL؜٠٠٠٠٣" />
+      <updated>1692668995814</updated>
+    </task>
+    <task id="LOCAL؜٠٠٠٠٤" summary="appBar">
+      <created>1692907850037</created>
+      <option name="number" value="LOCAL؜٠٠٠٠٤" />
+      <option name="presentableId" value="LOCAL؜٠٠٠٠٤" />
+      <updated>1692907850037</updated>
+    </task>
+    <task id="LOCAL؜٠٠٠٠٥" summary="track + splash">
+      <created>1693162701757</created>
+      <option name="number" value="LOCAL؜٠٠٠٠٥" />
+      <option name="presentableId" value="LOCAL؜٠٠٠٠٥" />
+      <updated>1693162701757</updated>
+    </task>
+    <task id="LOCAL؜٠٠٠٠٦" summary="recipt">
+      <created>1694037127617</created>
+      <option name="number" value="LOCAL؜٠٠٠٠٦" />
+      <option name="presentableId" value="LOCAL؜٠٠٠٠٦" />
+      <updated>1694037127617</updated>
+    </task>
+    <task id="LOCAL؜٠٠٠٠٧" summary="apiDomain">
+      <created>1694121789509</created>
+      <option name="number" value="LOCAL؜٠٠٠٠٧" />
+      <option name="presentableId" value="LOCAL؜٠٠٠٠٧" />
+      <updated>1694121789509</updated>
+    </task>
+    <task id="LOCAL؜٠٠٠٠٨" summary="superVisor">
+      <created>1694148048030</created>
+      <option name="number" value="LOCAL؜٠٠٠٠٨" />
+      <option name="presentableId" value="LOCAL؜٠٠٠٠٨" />
+      <updated>1694148048030</updated>
+    </task>
+    <task id="LOCAL؜٠٠٠٠٩" summary="worker &amp; user">
+      <created>1694405088727</created>
+      <option name="number" value="LOCAL؜٠٠٠٠٩" />
+      <option name="presentableId" value="LOCAL؜٠٠٠٠٩" />
+      <updated>1694405088727</updated>
+    </task>
+    <task id="LOCAL؜٠٠٠١٠" summary="new  api check location">
+      <created>1694547390460</created>
+      <option name="number" value="LOCAL؜٠٠٠١٠" />
+      <option name="presentableId" value="LOCAL؜٠٠٠١٠" />
+      <updated>1694547390460</updated>
+    </task>
+    <task id="LOCAL؜٠٠٠١١" summary="track service">
+      <created>1694638095650</created>
+      <option name="number" value="LOCAL؜٠٠٠١١" />
+      <option name="presentableId" value="LOCAL؜٠٠٠١١" />
+      <updated>1694638095650</updated>
+    </task>
+    <task id="LOCAL؜٠٠٠١٢" summary="track service">
+      <created>1694749023118</created>
+      <option name="number" value="LOCAL؜٠٠٠١٢" />
+      <option name="presentableId" value="LOCAL؜٠٠٠١٢" />
+      <updated>1694749023118</updated>
+    </task>
+    <task id="LOCAL؜٠٠٠١٣" summary="track service">
+      <created>1695150698185</created>
+      <option name="number" value="LOCAL؜٠٠٠١٣" />
+      <option name="presentableId" value="LOCAL؜٠٠٠١٣" />
+      <updated>1695150698185</updated>
+    </task>
+    <task id="LOCAL؜٠٠٠١٤" summary="track service">
+      <created>1695150826797</created>
+      <option name="number" value="LOCAL؜٠٠٠١٤" />
+      <option name="presentableId" value="LOCAL؜٠٠٠١٤" />
+      <updated>1695150826797</updated>
+    </task>
+    <task id="LOCAL؜٠٠٠١٥" summary="service city">
+      <created>1695762590532</created>
+      <option name="number" value="LOCAL؜٠٠٠١٥" />
+      <option name="presentableId" value="LOCAL؜٠٠٠١٥" />
+      <updated>1695762590532</updated>
+    </task>
+    <task id="LOCAL؜٠٠٠١٦" summary="service city">
+      <created>1696908103439</created>
+      <option name="number" value="LOCAL؜٠٠٠١٦" />
+      <option name="presentableId" value="LOCAL؜٠٠٠١٦" />
+      <updated>1696908103467</updated>
+    </task>
+    <task id="LOCAL؜٠٠٠١٧" summary="solve + google">
+      <created>1697166377261</created>
+      <option name="number" value="LOCAL؜٠٠٠١٧" />
+      <option name="presentableId" value="LOCAL؜٠٠٠١٧" />
+      <updated>1697166377261</updated>
+    </task>
+    <task id="LOCAL؜٠٠٠١٨" summary="solve + google">
+      <created>1697398243705</created>
+      <option name="number" value="LOCAL؜٠٠٠١٨" />
+      <option name="presentableId" value="LOCAL؜٠٠٠١٨" />
+      <updated>1697398243705</updated>
+    </task>
+    <task id="LOCAL؜٠٠٠١٩" summary="facebook + admob auth">
+      <created>1697573488494</created>
+      <option name="number" value="LOCAL؜٠٠٠١٩" />
+      <option name="presentableId" value="LOCAL؜٠٠٠١٩" />
+      <updated>1697573488494</updated>
+    </task>
+    <task id="LOCAL؜٠٠٠٢٠" summary="test 1">
+      <created>1697685345928</created>
+      <option name="number" value="LOCAL؜٠٠٠٢٠" />
+      <option name="presentableId" value="LOCAL؜٠٠٠٢٠" />
+      <updated>1697685345928</updated>
+    </task>
+    <task id="LOCAL؜٠٠٠٢١" summary="facebook">
+      <created>1697736773543</created>
+      <option name="number" value="LOCAL؜٠٠٠٢١" />
+      <option name="presentableId" value="LOCAL؜٠٠٠٢١" />
+      <updated>1697736773543</updated>
+    </task>
+    <task id="LOCAL؜٠٠٠٢٢" summary="facebook">
+      <created>1698008132334</created>
+      <option name="number" value="LOCAL؜٠٠٠٢٢" />
+      <option name="presentableId" value="LOCAL؜٠٠٠٢٢" />
+      <updated>1698008132334</updated>
+    </task>
+    <task id="LOCAL؜٠٠٠٢٣" summary="first version">
+      <created>1698574517904</created>
+      <option name="number" value="LOCAL؜٠٠٠٢٣" />
+      <option name="presentableId" value="LOCAL؜٠٠٠٢٣" />
+      <updated>1698574517904</updated>
+    </task>
+    <task id="LOCAL؜٠٠٠٢٤" summary="remove france">
+      <created>1698598845628</created>
+      <option name="number" value="LOCAL؜٠٠٠٢٤" />
+      <option name="presentableId" value="LOCAL؜٠٠٠٢٤" />
+      <updated>1698598845628</updated>
+    </task>
+    <task id="LOCAL؜٠٠٠٢٥" summary="first version">
+      <created>1698892577279</created>
+      <option name="number" value="LOCAL؜٠٠٠٢٥" />
+      <option name="presentableId" value="LOCAL؜٠٠٠٢٥" />
+      <updated>1698892577279</updated>
+    </task>
+    <task id="LOCAL؜-٠٠٠٢٦" summary="push">
+      <created>1699899154648</created>
+      <option name="number" value="٠٠٠٢٦" />
+      <option name="presentableId" value="LOCAL؜-٠٠٠٢٦" />
+      <option name="project" value="LOCAL؜" />
+      <updated>1699899154648</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="file from mr service" />
+    <MESSAGE value="build" />
+    <MESSAGE value="key map" />
+    <MESSAGE value="appBar" />
+    <MESSAGE value="track + splash" />
+    <MESSAGE value="recipt" />
+    <MESSAGE value="apiDomain" />
+    <MESSAGE value="superVisor" />
+    <MESSAGE value="worker &amp; user" />
+    <MESSAGE value="new api" />
+    <MESSAGE value="new  api check location" />
+    <MESSAGE value="track service" />
+    <MESSAGE value="service city" />
+    <MESSAGE value="solve + google" />
+    <MESSAGE value="facebook + admob auth" />
+    <MESSAGE value="test 1" />
+    <MESSAGE value="facebook" />
+    <MESSAGE value="remove france" />
+    <MESSAGE value="first version" />
+    <MESSAGE value="push" />
+    <option name="LAST_COMMIT_MESSAGE" value="push" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/const.dart</url>
+          <line>45</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/api/api_service.dart</url>
+          <line>223</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/api/api_service.dart</url>
+          <line>227</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/screens/signin.dart</url>
+          <line>609</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/api/api_service.dart</url>
+          <line>728</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint suspend="THREAD" type="dart-exception" />
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
