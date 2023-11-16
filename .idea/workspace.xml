@@ -7,10 +7,8 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78cba030-1105-42a6-b96d-9c98cc4187d6" name="Changes" comment="icon, splash">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/MyWidget.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/MyWidget.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/color/MyColors.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/color/MyColors.dart" afterDir="false" />
+    <list default="true" id="78cba030-1105-42a6-b96d-9c98cc4187d6" name="Changes" comment="add order atachment">
+      <change beforePath="$PROJECT_DIR$/lib/screens/worker/taskId.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/worker/taskId.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -250,7 +248,21 @@
       <option name="project" value="LOCAL؜" />
       <updated>1699931980149</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL؜-٠٠٠٢٨" summary="topBar - image">
+      <created>1700104200115</created>
+      <option name="number" value="٠٠٠٢٨" />
+      <option name="presentableId" value="LOCAL؜-٠٠٠٢٨" />
+      <option name="project" value="LOCAL؜" />
+      <updated>1700104200115</updated>
+    </task>
+    <task id="LOCAL؜-٠٠٠٢٩" summary="add order atachment">
+      <created>1700104381914</created>
+      <option name="number" value="٠٠٠٢٩" />
+      <option name="presentableId" value="LOCAL؜-٠٠٠٢٩" />
+      <option name="project" value="LOCAL؜" />
+      <updated>1700104381914</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -288,7 +300,9 @@
     <MESSAGE value="push" />
     <MESSAGE value="package name" />
     <MESSAGE value="icon, splash" />
-    <option name="LAST_COMMIT_MESSAGE" value="icon, splash" />
+    <MESSAGE value="topBar - image" />
+    <MESSAGE value="add order atachment" />
+    <option name="LAST_COMMIT_MESSAGE" value="add order atachment" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
