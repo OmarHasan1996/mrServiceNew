@@ -679,8 +679,8 @@ class MyWidget{
           mainAxisAlignment: MainAxisAlignment.spaceBetween,
           children: [
             SizedBox(height: AppHeight.h1,),
-            SvgPicture.asset(
-              'assets/images/app_bar_logo.svg',
+            Image.asset(
+              'assets/images/Logo1.png',
               width: AppWidth.w20,
               height: AppHeight.h2,
             ),
