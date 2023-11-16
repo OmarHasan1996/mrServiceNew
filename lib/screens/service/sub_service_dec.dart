@@ -557,7 +557,7 @@ class _SubServiceDecState extends State<SubServiceDec> {
                                   ),
                                   //amount
                                   //attach
-                                  /*Stack(
+                                  Stack(
                                 children: [
                                   Align(
                                     alignment: Alignment.centerLeft,
@@ -574,7 +574,7 @@ class _SubServiceDecState extends State<SubServiceDec> {
                                   )
 
                                 ],
-                              ),*/
+                              ),
                                   SizedBox(
                                     height: MediaQuery.of(context).size.height /
                                         80 *
